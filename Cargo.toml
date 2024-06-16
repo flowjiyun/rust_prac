@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "linked_list",
+    "miniserver",
+]
+
+resolver = "2"
